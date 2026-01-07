@@ -1,0 +1,8 @@
+# Backend requirements
+fastapi
+sqlmodel
+uvicorn
+pyjwt
+pydantic-settings
+psycopg2-binary
+pytest
